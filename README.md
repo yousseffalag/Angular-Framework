@@ -13,7 +13,7 @@
 - Navigate between pages with Angular Router
 - Delete products with a single action
 
-> 🔗 **Backend Repository:** The Spring Boot REST API that powers this app is available here → [webmvcproducts backend](https://github.com/yousseffalag/Angular-Framework)
+> 🔗 **Backend Repository:** The Spring Boot REST API that powers this app is available here → [web-mvc-products backend](https://github.com/yousseffalag/Spring-MVC)
 
 ---
 
